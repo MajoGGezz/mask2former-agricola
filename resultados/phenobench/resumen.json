@@ -1,0 +1,102 @@
+{
+  "159395_Pgc_img_cm_2026-03-12 09_14_10.903-05_00": {
+    "archivo_figura": "159395_Pgc_img_cm_2026-03-12 09_14_10.903-05_00_phenobench.png",
+    "tamano": [
+      1920,
+      2560
+    ],
+    "tiempo_s": 0.46,
+    "cobertura_pct": {
+      "suelo": 77.23,
+      "cultivo": 20.39,
+      "maleza": 2.38
+    },
+    "instancias_totales": 99,
+    "instancias_sobre_umbral": 7,
+    "por_clase": {
+      "maleza": 6,
+      "cultivo": 1
+    },
+    "score_medio": 0.85
+  },
+  "20200526_train_nh_P0033960_5165_7250": {
+    "archivo_figura": "20200526_train_nh_P0033960_5165_7250_phenobench.png",
+    "tamano": [
+      1024,
+      1024
+    ],
+    "tiempo_s": 0.38,
+    "cobertura_pct": {
+      "suelo": 89.18,
+      "cultivo": 4.54,
+      "maleza": 6.29
+    },
+    "instancias_totales": 99,
+    "instancias_sobre_umbral": 22,
+    "por_clase": {
+      "maleza": 15,
+      "cultivo": 7
+    },
+    "score_medio": 0.941
+  },
+  "20200605_val_ph_P0037821_6144_0": {
+    "archivo_figura": "20200605_val_ph_P0037821_6144_0_phenobench.png",
+    "tamano": [
+      1024,
+      1024
+    ],
+    "tiempo_s": 0.36,
+    "cobertura_pct": {
+      "suelo": 93.11,
+      "cultivo": 4.69,
+      "maleza": 2.21
+    },
+    "instancias_totales": 99,
+    "instancias_sobre_umbral": 16,
+    "por_clase": {
+      "cultivo": 4,
+      "maleza": 12
+    },
+    "score_medio": 0.97
+  },
+  "DJI_0140": {
+    "archivo_figura": "DJI_0140_phenobench.png",
+    "tamano": [
+      1600,
+      1300
+    ],
+    "tiempo_s": 0.41,
+    "cobertura_pct": {
+      "suelo": 92.31,
+      "cultivo": 1.44,
+      "maleza": 6.25
+    },
+    "instancias_totales": 99,
+    "instancias_sobre_umbral": 33,
+    "por_clase": {
+      "maleza": 26,
+      "cultivo": 7
+    },
+    "score_medio": 0.911
+  },
+  "dron_legumes": {
+    "archivo_figura": "dron_legumes_phenobench.png",
+    "tamano": [
+      1600,
+      1300
+    ],
+    "tiempo_s": 0.38,
+    "cobertura_pct": {
+      "suelo": 89.96,
+      "cultivo": 6.27,
+      "maleza": 3.77
+    },
+    "instancias_totales": 99,
+    "instancias_sobre_umbral": 22,
+    "por_clase": {
+      "cultivo": 2,
+      "maleza": 20
+    },
+    "score_medio": 0.932
+  }
+}

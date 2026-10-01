@@ -1,0 +1,19 @@
+# Dependencias para la app local (app.py) y la evaluacion (evaluar_mask2former.py).
+# Todas se instalan con pip, sin permisos de administrador.
+#
+# torch y torchvision en version CPU:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# el resto:
+#   pip install -r requirements.txt
+#
+# El notebook de Colab (notebooks/) instala sus propias dependencias,
+# incluido Detectron2, dentro de la sesion de Colab.
+
+torch
+torchvision
+transformers
+scipy
+pillow
+numpy
+matplotlib
+streamlit
