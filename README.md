@@ -5,7 +5,7 @@ Maestría en Inteligencia Artificial y Ciencia de Datos, Universidad Autónoma d
 
 **Nombre:** María José Garzón Guiral
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MajoGGez/mask2former-agricola/blob/main/notebooks/phenobench_mask2former_colab.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MajoGGezz/mask2former-agricola/blob/main/notebooks/phenobench_mask2former_colab.ipynb)
 
 ---
 
