@@ -47,7 +47,7 @@ LADO_MAX = 1024
 CARPETA_PB = Path(__file__).parent / "resultados" / "phenobench"
 
 # Reemplazar <usuario> por el usuario de GitHub para que el boton abra el notebook.
-COLAB_URL = ("https://colab.research.google.com/github/<usuario>/"
+COLAB_URL = ("https://colab.research.google.com/github/MajoGGez/"
              "mask2former-agricola/blob/main/notebooks/phenobench_mask2former_colab.ipynb")
 
 
